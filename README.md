@@ -5,7 +5,7 @@ An AI-powered Fake News Detection System that verifies news headlines using real
 The application fetches live news from online sources, compares it with user-entered news using NLP similarity analysis, and predicts whether the news is likely real or fake.
 
 ## 📸 Project Preview
-<p align="center"> <img src="assets/project-view.png" alt="Fake News Detector UI" width="900"/> </p>
+<p align="center"> <img src="assets/project_showcase.png" alt="Fake News Detector UI" width="900"/> </p>
 
 ## 📌 Overview
 
