@@ -134,4 +134,4 @@ The Real-Time Fake News Detection System demonstrates how Machine Learning, NLP,
 This project is beginner-friendly while still demonstrating real-world AI concepts and API integration techniques.
 
 ## 📬 Contact
-For suggestions, improvements, or collaboration opportunities, feel free to connect.
+For suggestions, improvements, or collaboration opportunities, feel free to connect me.
