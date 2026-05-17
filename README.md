@@ -93,6 +93,12 @@ The system predicts:
 - ⚠️ Partially Verified News
 - 🚫 Likely Fake News
 
+**Accuracy:**  
+- **F1 Score:** 50%
+- **Accuracy:** 50%
+- **Precision:** 50%
+- **Recall:** 50%
+
 ## 🌐 User Interface
 The project includes a modern news-style interface featuring:
 - Dark futuristic theme
