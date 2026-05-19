@@ -22,7 +22,7 @@ STOPWORDS = {
     "no", "nor", "not", "only", "own", "same", "so", "than", "too", "very", "s",
     "t", "can", "will", "just", "don", "should", "now", "says", "said", "also",
     "would", "could", "may", "might", "shall", "must", "need", "really", "today",
-    "according", "report", "reports", "new", "latest"
+    "according", "report", "reports", "new", "latest", "like", "like this",
 }
 
 
